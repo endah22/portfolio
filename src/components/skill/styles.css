@@ -1,0 +1,242 @@
+.skill_body {
+  background-color: white;
+  display: flex;
+  width: 100%;
+  height: 750px;
+}
+.daun1{
+    height: 750px;  
+}
+.daun1 img {
+  margin-left: 0;
+  padding-top: 600px;
+  margin-bottom: 0;
+  width: 160px;
+  object-fit: contain;
+}
+.daun2 img{
+    margin-right: 0;
+    margin-top: 0;
+    width: 160px; 
+    object-fit: contain;
+  }
+.skill_body1{
+  flex-direction: row;
+  width: 100%;
+  height: 750px;  
+  text-align: center;
+}
+.s_body1{
+  flex-direction: column;
+  margin-top: 90px;
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+.tulis{
+  font-family: HelveticaNeue;
+  font-size: 32px;
+  font-weight: bold;
+}
+.bentuk{
+  text-align: center;
+  width: 98px;
+  height: 3px;
+  background-color: #ff0000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill1{
+  flex-direction: row;
+  display: flex;
+  margin-top: 40px;
+
+}
+.uiux:hover {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 15px;
+}
+.uiux{
+  padding: 20px;
+  width: 250px;
+  margin-right: 60px;
+}
+.icoon1 img{
+  width: 100px;
+  margin-bottom: 10px;
+}
+.title1{
+  margin-bottom: 10px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7c7c7c;
+}
+.isi1{
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #707070;
+}
+.icon:hover {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 15px;
+}
+.icon{
+  padding: 20px;
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.icoon2 img{
+  width: 100px;
+  margin-bottom: 10px;
+}
+.title2{
+  margin-bottom: 10px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7c7c7c;
+}
+.isi2{
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #707070;
+}
+.motion:hover {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 15px;
+}
+.motion{
+  padding: 20px;
+  width: 250px;
+  margin-left: 60px;
+}
+.icoon3 img{
+  width: 100px;
+  margin-bottom: 10px;
+}
+.title3{
+  margin-bottom: 10px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7c7c7c;
+}
+.isi3{
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #707070;
+}
+.skill2{
+  flex-direction: row;
+  display: flex;
+  margin-top: 40px;
+}
+.frontend:hover {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 15px;
+}
+.frontend{
+  padding: 20px;
+  width: 250px;
+  margin-left: 20%;
+}
+.icoon4 img{
+  width: 100px;
+  margin-bottom: 10px;
+}
+.title4{
+  margin-bottom: 10px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7c7c7c;
+}
+.isi4{
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #707070;
+}
+.gd:hover {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 15px;
+}
+.gd{
+  padding: 20px;
+  width: 250px;
+  margin-left: 20%;
+  margin-right: 0;
+}
+.icoon5 img{
+  width: 100px;
+  margin-bottom: 10px;
+}
+.title5{
+  margin-bottom: 10px;
+  font-family: HelveticaNeue;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7c7c7c;
+}
+.isi5{
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #707070;
+}

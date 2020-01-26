@@ -1,0 +1,64 @@
+.Footer_body {
+  height: 273px;
+  background-color: #292929;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.text_footer {
+  font-family: HelveticaNeue;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.22;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.text_footer1 {
+  margin-top: 20px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+.button2 {
+  margin-right: auto;
+  margin-left: auto;
+  font-family: HelveticaNeue;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  width: 226px;
+  height: 39px;
+  border-radius: 47px;
+  border-color:#292929;
+  background-color: #f8001d;
+}
+.button_1 {
+  margin-right: auto;
+  margin-left: auto;
+}
+.button3 {
+    padding-left: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  width: 400px;
+  background-color: #292929;
+}
+
+.button3 img {
+  margin-right: 10px;
+  width: 40px;
+}

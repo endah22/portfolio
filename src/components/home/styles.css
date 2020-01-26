@@ -1,0 +1,65 @@
+.home_body {
+  margin-top: 100px;
+  background-color: white;
+  display: flex;
+  width: 100%;
+  height: 675px;
+}
+.perkenalan {
+  margin-left: 180px;
+  margin-top: 65px;
+  width: 100%;
+  height: 675px;
+}
+.p_nama {
+margin-top: 60px;
+  font-family: Roboto;
+  font-size: 42px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+.p_body2 {
+  font-family: Roboto;
+  font-size: 68px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+.p_body1{
+    font-family: Roboto;
+  font-size: 42px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+.button{
+    margin-top: 30px;
+    width: 269px;
+    height: 58px;
+    font-family: Roboto;
+    font-size: 20px;
+    border-radius: 6px;
+    color: #ffffff;
+    background-color: #4ea1ef;
+}
+.me img {
+  margin-top: 10px;
+  padding-top: 40px;
+  margin-right: 40px;
+  width: 700px;
+  height: auto;
+  object-fit: contain;
+}

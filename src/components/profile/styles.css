@@ -1,0 +1,68 @@
+.profile_body {
+  background-color: #3f9df2;
+  display: flex;
+  width: 100%;
+  height: 675px;
+  margin-top: 50px;
+}
+.perkenalan1 {
+    margin-left: 120px;
+  margin-right: 140px;
+  margin-top: 80px;
+  width: 100%;
+  height: 675px;
+}
+.p_nama1 {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.34;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.p_body22 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.7;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.p_body11 {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.button1{
+    margin-top: 20px;
+    width: 400px;
+    background-color: #3f9df2;
+}
+
+.button1 img{
+    margin-right: 10px;
+    width: 40px;
+    
+}
+.foto img {
+  margin-left: 120px;
+  margin-top: 10px;
+  padding-top: 40px;
+  width: 513px;
+  height: auto;
+  object-fit: contain;
+}
